@@ -1,5 +1,5 @@
 - 👋 Oi, meu nome é Rodrigo Ogando mas pode me chamar de Ogando.
-- 👀 Eu atuo na área de TI desde 2008 como Analista de Suporte e sou dormado em Análise e Desenvolvimento de Sistemas. Tenho desenvolvido minhas habilidades em Programação, Testes e Banco dde Dados.
+- 👀 Eu atuo na área de TI desde 2008 como Analista de Suporte e sou formado em Análise e Desenvolvimento de Sistemas e pós graduado em Engenharia de Software. Tenho desenvolvido minhas habilidades em Programação, Testes e Banco dde Dados.
 - 🌱 Eu estou aprendendo no momento HTML, JAVASCRIPT, CSS, .NET, JAVA and PYTHON.
 - 💞️ Eu estou interessado em contibuir e colaborar em projetos de JAVA, HTML, JAVASCRIPT, CSS e outros casos. Eu não possuo muita experência, mas sou uma pessoa que aprende rápido e assimilo conhecimentos e informações de forma rápida pricnicpalmente na resolução de problemas.
 - 📫 Como fazer contato comigo: email: digogando@hotmail.com
